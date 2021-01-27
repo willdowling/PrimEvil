@@ -1,0 +1,2263 @@
+fileFormatVersion: 2
+guid: bde59802ce6eaa348a9bd7fad5407b7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2090519476318467185
+    second: pH64_furniture_OGA_alpha_0
+  - first:
+      213: 4722933055237369906
+    second: pH64_furniture_OGA_alpha_1
+  - first:
+      213: -5282066688453525718
+    second: pH64_furniture_OGA_alpha_2
+  - first:
+      213: -110927217052793257
+    second: pH64_furniture_OGA_alpha_3
+  - first:
+      213: 4699628868479069701
+    second: pH64_furniture_OGA_alpha_4
+  - first:
+      213: -5541103318970096605
+    second: pH64_furniture_OGA_alpha_5
+  - first:
+      213: -2801368292332595588
+    second: pH64_furniture_OGA_alpha_6
+  - first:
+      213: -739714291337285253
+    second: pH64_furniture_OGA_alpha_7
+  - first:
+      213: -4895481459583089507
+    second: pH64_furniture_OGA_alpha_8
+  - first:
+      213: -366404629492814280
+    second: pH64_furniture_OGA_alpha_9
+  - first:
+      213: 1536475745180069275
+    second: pH64_furniture_OGA_alpha_10
+  - first:
+      213: -2701494855621837075
+    second: pH64_furniture_OGA_alpha_11
+  - first:
+      213: -7709409839142115132
+    second: pH64_furniture_OGA_alpha_12
+  - first:
+      213: -4843413173079843514
+    second: pH64_furniture_OGA_alpha_13
+  - first:
+      213: -7294267628712047534
+    second: pH64_furniture_OGA_alpha_14
+  - first:
+      213: 4042524732671917744
+    second: pH64_furniture_OGA_alpha_15
+  - first:
+      213: 5537082746887343152
+    second: pH64_furniture_OGA_alpha_16
+  - first:
+      213: -4205309750584499176
+    second: pH64_furniture_OGA_alpha_17
+  - first:
+      213: -7639688550624952619
+    second: pH64_furniture_OGA_alpha_18
+  - first:
+      213: -312514825076329988
+    second: pH64_furniture_OGA_alpha_19
+  - first:
+      213: -342260208790493160
+    second: pH64_furniture_OGA_alpha_20
+  - first:
+      213: -705451909293313353
+    second: pH64_furniture_OGA_alpha_21
+  - first:
+      213: 5319468941094849256
+    second: pH64_furniture_OGA_alpha_22
+  - first:
+      213: -3067167844199350192
+    second: pH64_furniture_OGA_alpha_23
+  - first:
+      213: -7058955504276565744
+    second: pH64_furniture_OGA_alpha_24
+  - first:
+      213: 1139086380657023503
+    second: pH64_furniture_OGA_alpha_25
+  - first:
+      213: 5073578391617420087
+    second: pH64_furniture_OGA_alpha_26
+  - first:
+      213: -2544559255354828088
+    second: pH64_furniture_OGA_alpha_27
+  - first:
+      213: 8329452072745988450
+    second: pH64_furniture_OGA_alpha_28
+  - first:
+      213: -646729802726260824
+    second: pH64_furniture_OGA_alpha_29
+  - first:
+      213: -5387765871030785698
+    second: pH64_furniture_OGA_alpha_30
+  - first:
+      213: -2266229402453263346
+    second: pH64_furniture_OGA_alpha_31
+  - first:
+      213: 8164298548256660893
+    second: pH64_furniture_OGA_alpha_32
+  - first:
+      213: 6775659233332430616
+    second: pH64_furniture_OGA_alpha_33
+  - first:
+      213: -8943206363518357789
+    second: pH64_furniture_OGA_alpha_34
+  - first:
+      213: 5879599665177309585
+    second: pH64_furniture_OGA_alpha_35
+  - first:
+      213: 7860874275375221100
+    second: pH64_furniture_OGA_alpha_36
+  - first:
+      213: 137653846984600288
+    second: pH64_furniture_OGA_alpha_37
+  - first:
+      213: 5821545558555643094
+    second: pH64_furniture_OGA_alpha_38
+  - first:
+      213: 8484883084599369138
+    second: pH64_furniture_OGA_alpha_39
+  - first:
+      213: 5270307168268749722
+    second: pH64_furniture_OGA_alpha_40
+  - first:
+      213: 8954244098481043709
+    second: pH64_furniture_OGA_alpha_41
+  - first:
+      213: -2522856975454950355
+    second: pH64_furniture_OGA_alpha_42
+  - first:
+      213: -6177469694336162011
+    second: pH64_furniture_OGA_alpha_43
+  - first:
+      213: -6856682607062030000
+    second: pH64_furniture_OGA_alpha_44
+  - first:
+      213: 2848168953714971677
+    second: pH64_furniture_OGA_alpha_45
+  - first:
+      213: -7502859339565420174
+    second: pH64_furniture_OGA_alpha_46
+  - first:
+      213: 6473222401459541893
+    second: pH64_furniture_OGA_alpha_47
+  - first:
+      213: 3842409785733872502
+    second: pH64_furniture_OGA_alpha_48
+  - first:
+      213: -8222662990203646688
+    second: pH64_furniture_OGA_alpha_49
+  - first:
+      213: 9199863356820307979
+    second: pH64_furniture_OGA_alpha_50
+  - first:
+      213: -9163572229825946971
+    second: pH64_furniture_OGA_alpha_51
+  - first:
+      213: 2273114625203309754
+    second: pH64_furniture_OGA_alpha_52
+  - first:
+      213: 2001339158207125888
+    second: pH64_furniture_OGA_alpha_53
+  - first:
+      213: 5352085106367855503
+    second: pH64_furniture_OGA_alpha_54
+  - first:
+      213: -128929713958741975
+    second: pH64_furniture_OGA_alpha_55
+  - first:
+      213: -6425976293419879765
+    second: pH64_furniture_OGA_alpha_56
+  - first:
+      213: -8039856358656781737
+    second: pH64_furniture_OGA_alpha_57
+  - first:
+      213: 7851129801688966961
+    second: pH64_furniture_OGA_alpha_58
+  - first:
+      213: -1817287864717700534
+    second: pH64_furniture_OGA_alpha_59
+  - first:
+      213: -1864967738672126336
+    second: pH64_furniture_OGA_alpha_60
+  - first:
+      213: 7344176320956135823
+    second: pH64_furniture_OGA_alpha_61
+  - first:
+      213: 2320521212300322689
+    second: pH64_furniture_OGA_alpha_62
+  - first:
+      213: 2654981670057052934
+    second: pH64_furniture_OGA_alpha_63
+  - first:
+      213: -284361089531503030
+    second: pH64_furniture_OGA_alpha_64
+  - first:
+      213: -4301273284657670592
+    second: pH64_furniture_OGA_alpha_65
+  - first:
+      213: 7398940757224584715
+    second: pH64_furniture_OGA_alpha_66
+  - first:
+      213: 7999046874628868531
+    second: pH64_furniture_OGA_alpha_67
+  - first:
+      213: -1226181549617234177
+    second: pH64_furniture_OGA_alpha_68
+  - first:
+      213: 2017126051096262463
+    second: pH64_furniture_OGA_alpha_69
+  - first:
+      213: 8705883615186943719
+    second: pH64_furniture_OGA_alpha_70
+  - first:
+      213: -6655619774858205836
+    second: pH64_furniture_OGA_alpha_71
+  - first:
+      213: -7459493222978725984
+    second: pH64_furniture_OGA_alpha_72
+  - first:
+      213: 8491767769806171937
+    second: pH64_furniture_OGA_alpha_73
+  - first:
+      213: -1568824807149400372
+    second: pH64_furniture_OGA_alpha_74
+  - first:
+      213: -1596627914300237767
+    second: pH64_furniture_OGA_alpha_75
+  - first:
+      213: 8736343957978014117
+    second: pH64_furniture_OGA_alpha_76
+  - first:
+      213: 3533474407279422734
+    second: pH64_furniture_OGA_alpha_77
+  - first:
+      213: -9132857220470536021
+    second: pH64_furniture_OGA_alpha_78
+  - first:
+      213: 4747819086803758862
+    second: pH64_furniture_OGA_alpha_79
+  - first:
+      213: -7883637090577761996
+    second: pH64_furniture_OGA_alpha_80
+  - first:
+      213: 3697138200864890494
+    second: pH64_furniture_OGA_alpha_81
+  - first:
+      213: -2174491810890186121
+    second: pH64_furniture_OGA_alpha_82
+  - first:
+      213: -209452704679539586
+    second: pH64_furniture_OGA_alpha_83
+  - first:
+      213: -2622221873795976153
+    second: pH64_furniture_OGA_alpha_84
+  - first:
+      213: -6147946783769224764
+    second: pH64_furniture_OGA_alpha_85
+  - first:
+      213: 2544140475591909620
+    second: pH64_furniture_OGA_alpha_86
+  - first:
+      213: -7205475089006656182
+    second: pH64_furniture_OGA_alpha_87
+  - first:
+      213: 5974660177437341697
+    second: pH64_furniture_OGA_alpha_88
+  - first:
+      213: -6304234717841920009
+    second: pH64_furniture_OGA_alpha_89
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 153
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77faec873455d5438ec8af8e0d892f4
+      internalID: 2090519476318467185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 165
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030763f0d751a63459802f98b88533f2
+      internalID: 4722933055237369906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 150
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01932c51d4bb3c4180774cfa1ce638b
+      internalID: -5282066688453525718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965ec27579d8dae49be76c509e4c8812
+      internalID: -110927217052793257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 150
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a589515cdd464459da6af36bb8375a
+      internalID: 4699628868479069701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 150
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd73e3301636afe40ab5a7f6c2f6a25f
+      internalID: -5541103318970096605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 159
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eb4829aa7c6804e934e4b3906cfeb8
+      internalID: -2801368292332595588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 156
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7273e8abebdb0724f9ac2e13692d9952
+      internalID: -739714291337285253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c74724ba6bf47d4da1b13d56c46f2e1
+      internalID: -4895481459583089507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 173
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fb6d8a8647ab5448e1d442d694f7bf
+      internalID: -366404629492814280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 177
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05e7da37685b9e4a975565af0c62c8a
+      internalID: 1536475745180069275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 173
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e467156ac6c0fd14cbde2aa760e6b203
+      internalID: -2701494855621837075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 132
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e234eb984684e5040abfa1fbc019432d
+      internalID: -7709409839142115132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 111
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bea59f01a757a64aa66430e975078c7
+      internalID: -4843413173079843514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 125
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9ddf0b75277a749aa78b7481113374
+      internalID: -7294267628712047534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1146e8e98a9094d9c6aea7697f633c
+      internalID: 4042524732671917744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 138
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b72b227dfe8c647995fe112cbbea1d
+      internalID: 5537082746887343152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 145
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71227ae0685c9fd4e97bd875efcf8a6e
+      internalID: -4205309750584499176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_18
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 144
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22052617d143fd34c803c74a71bd40ee
+      internalID: -7639688550624952619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 140
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25bd005c96007e47ae470c2958edb47
+      internalID: -312514825076329988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_20
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 151
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd199282d555a32468efa637e8518449
+      internalID: -342260208790493160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 107
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872967aaae2dff949989c1b4e74767ab
+      internalID: -705451909293313353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 121
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c459255248fd49a4277ac714e9092
+      internalID: 5319468941094849256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 129
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b567757338f4e34ba81fa7eb2aff90a
+      internalID: -3067167844199350192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 108
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ef54b5601e80b45af9ab81de1719fb
+      internalID: -7058955504276565744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_25
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 122
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aa5c8991b9904448b6d0bc7f732e3f
+      internalID: 1139086380657023503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_26
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 122
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54778db30024df34bafafb6709a68036
+      internalID: 5073578391617420087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 124
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab346e1524517649b5df3b9aea3ea18
+      internalID: -2544559255354828088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_28
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 121
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9177564b0b5bf241beaf53e839ea9b9
+      internalID: 8329452072745988450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 130
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cec2ecebd64204aa553407deb44c7f
+      internalID: -646729802726260824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 67
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d425f2eec94734a9bb881ffcb527af
+      internalID: -5387765871030785698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 105
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4ce3c359d2c24f9fa6aef548d8184
+      internalID: -2266229402453263346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 90
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d333fe3f33b074fae00055d96c05e3
+      internalID: 8164298548256660893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 104
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab2e72089f80b944918977a0dd6b005
+      internalID: 6775659233332430616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 95
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5bc51cec15d374d9702ce1fc5df7fa
+      internalID: -8943206363518357789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_35
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 92
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be0b1bffc6aded48a33b447d83f4331
+      internalID: 5879599665177309585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_36
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28c727022abc914da28a8526a50b8d2
+      internalID: 7860874275375221100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_37
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 93
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836d368a2206fa74fb4efa150fbd61b0
+      internalID: 137653846984600288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 93
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b74ebb7826ec64fac605c0c271ef8a
+      internalID: 5821545558555643094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 69
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ae7eceb1795194a9267bc18c90c034
+      internalID: 8484883084599369138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 90
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dab005b8610a3049af1fdeb07c72131
+      internalID: 5270307168268749722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_41
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 67
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfbc54553cd1a342ba7880a45edfab3
+      internalID: 8954244098481043709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_42
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 65
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7de17625a83f44c861b9a2b6cf3fd0
+      internalID: -2522856975454950355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_43
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 65
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5267d5c4061f4a14abbb8e79f5e6ef1e
+      internalID: -6177469694336162011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 65
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bb49115c25a604ab8ba1d77171357b
+      internalID: -6856682607062030000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 64
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3106d2a87a5c141ac644288ea03d07
+      internalID: 2848168953714971677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 61
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47173541c76a0dc4a9dbb63a15f4b885
+      internalID: -7502859339565420174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 59
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c580304ac073dc43a39a31311fd5af2
+      internalID: 6473222401459541893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 67
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be9680bc44f4e84d871454a89b097e2
+      internalID: 3842409785733872502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_49
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 64
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9041130bdf31294a96bffd777f1e9dd
+      internalID: -8222662990203646688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 54
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a943d74a1351ec4babc1625fb6b3c87
+      internalID: 9199863356820307979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfe68f625b1c874ca8659bff481215e
+      internalID: -9163572229825946971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 31
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edf31c8655ae214ba2e252e1c079436
+      internalID: 2273114625203309754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_53
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 30
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86d08ff6b5cf74ab552d2e6136e2ca
+      internalID: 2001339158207125888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 35
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6f773043061944da75a6f4fb44a917
+      internalID: 5352085106367855503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 54
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7622ed72abc2634790414267d460d9c
+      internalID: -128929713958741975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_56
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44904fd89f63c9b4dadc752f6f0d9ab7
+      internalID: -6425976293419879765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_57
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 31
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e56a95703f7ca048b76f925944ea17c
+      internalID: -8039856358656781737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_58
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 30
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a8a9d8bc52be9499c892c3460dfca9
+      internalID: 7851129801688966961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_59
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 30
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e775048234b2d4485b8500f9a3ed86
+      internalID: -1817287864717700534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_60
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 31
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50804231e715b57449c10c23a4824d58
+      internalID: -1864967738672126336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_61
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 34
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f6b61939318eb4788f6feac10d5731
+      internalID: 7344176320956135823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_62
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 33
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35b7ced8845e2a4284aee6e6690abbf
+      internalID: 2320521212300322689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_63
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 28
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36582f5c3a7241842b475bc44eec3828
+      internalID: 2654981670057052934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_64
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 28
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c54136fb01bc1438297493257bad64
+      internalID: -284361089531503030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ac8422408fe9e4eb6e455d9b41d2b1
+      internalID: -4301273284657670592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_66
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 31
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758c400ae9440c84197397e41996508b
+      internalID: 7398940757224584715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 31
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c37d68e48ae30b4e81c4b1e2569fddb
+      internalID: 7999046874628868531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_68
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 32
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311dcca9ea1a0a948b15439bcd99cb19
+      internalID: -1226181549617234177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_69
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 32
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4821d6115e8bab4c92100ef15a7e15a
+      internalID: 2017126051096262463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcbc3a80ca62244c9844832f9759980
+      internalID: 8705883615186943719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_71
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a4d1dd2c5fb44fa77903fdcd2246c
+      internalID: -6655619774858205836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_72
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c6f3237c5c3be408e8d89289ce3995
+      internalID: -7459493222978725984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_73
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808de41ebf6894e4387bf560d416531f
+      internalID: 8491767769806171937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d724a274bc57c44a0becb0c28dfd44
+      internalID: -1568824807149400372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_75
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd1be1ec6796884ea0006bce7d8c969
+      internalID: -1596627914300237767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_76
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef79c026c9f7a949a5f684e8ef97de2
+      internalID: 8736343957978014117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_77
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9892d4dfde363544fb4e8db888579535
+      internalID: 3533474407279422734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_78
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0715a9326fbf2f147a6360fa29326cdd
+      internalID: -9132857220470536021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_79
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce7d628e52b0c2409859fdd5126b663
+      internalID: 4747819086803758862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_80
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ebeb8aa59b010459fde66a29b7c34d
+      internalID: -7883637090577761996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_81
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c39779c01b943479488e8dbc625eb8
+      internalID: 3697138200864890494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_82
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31e7562ad7a5a0468429ddfc56f9afd
+      internalID: -2174491810890186121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_83
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ca75220cea5b4290e2da473135886
+      internalID: -209452704679539586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_84
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9764ec60b57534c8ab3007e153542b
+      internalID: -2622221873795976153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_85
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a3d2155c9b9e241b6d5987e89afe64
+      internalID: -6147946783769224764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_86
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b731121b04414e4aabe729fa3e86e1b
+      internalID: 2544140475591909620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_87
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48e54accbdba9a48931d0303c8aef10
+      internalID: -7205475089006656182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_88
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 6
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8963eefa1ed79b43b720c7d61494c56
+      internalID: 5974660177437341697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_furniture_OGA_alpha_89
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 5
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1799039ca1fd283489a2286fbc88fe36
+      internalID: -6304234717841920009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: a172529f4b8944547821364c2b62e9e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1704938757064075711
+    second: friendhat_0
+  - first:
+      213: 1032451819730485231
+    second: friendhat_1
+  - first:
+      213: 8438882093811803694
+    second: friendhat_2
+  - first:
+      213: 6449706920099166167
+    second: friendhat_3
+  - first:
+      213: 5153718689301914790
+    second: friendhat_4
+  - first:
+      213: -2688796869554568503
+    second: friendhat_5
+  - first:
+      213: -4358110388964343739
+    second: friendhat_6
+  - first:
+      213: -5241217252327119041
+    second: friendhat_7
+  - first:
+      213: -3382987705249962765
+    second: friendhat_8
+  - first:
+      213: 6789403782997861822
+    second: friendhat_9
+  - first:
+      213: -4781573697531756814
+    second: friendhat_10
+  - first:
+      213: -7400013365675238958
+    second: friendhat_11
+  - first:
+      213: 6921757133808575350
+    second: friendhat_12
+  - first:
+      213: 1669486724743340127
+    second: friendhat_13
+  - first:
+      213: 8397700907065885526
+    second: friendhat_14
+  - first:
+      213: 117006365967825193
+    second: friendhat_15
+  - first:
+      213: -1130924651910408599
+    second: friendhat_16
+  - first:
+      213: 1662978737188050950
+    second: friendhat_17
+  - first:
+      213: -5212171456055594536
+    second: friendhat_18
+  - first:
+      213: 6341074637911480612
+    second: friendhat_19
+  - first:
+      213: -7292029611672038915
+    second: friendhat_20
+  - first:
+      213: 7222365635033926715
+    second: friendhat_21
+  - first:
+      213: -3074540548886403637
+    second: friendhat_22
+  - first:
+      213: 8696459448638289693
+    second: friendhat_23
+  - first:
+      213: -6581366894409764161
+    second: friendhat_24
+  - first:
+      213: -737803939543531925
+    second: friendhat_25
+  - first:
+      213: -600571352464478233
+    second: friendhat_26
+  - first:
+      213: -1973855724563048395
+    second: friendhat_27
+  - first:
+      213: 992390554749434688
+    second: friendhat_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: friendhat_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 196
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf43e972b8620e4e8a3ee718f744f82
+      internalID: -1704938757064075711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 196
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b817caed7ad03a40ab35367410cbef3
+      internalID: 1032451819730485231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 196
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b003b368183524dbb03d8e5b2f3739
+      internalID: 8438882093811803694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 196
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e565950b8bc5ea4e9675b5c0921d6e6
+      internalID: 6449706920099166167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 164
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bf14206d4f70d4fa9dc272116b6b48
+      internalID: 5153718689301914790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 164
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90283f4fd41543e41b47ba0547c760db
+      internalID: -2688796869554568503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 164
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18af5212c912f14499cccf2de90c7d7f
+      internalID: -4358110388964343739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 164
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c294288a1f434c4cb5e116fae4b82ec
+      internalID: -5241217252327119041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537a9c7e50206fd448bcda1acaff1ea4
+      internalID: -3382987705249962765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 132
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e085ea1d9ee1514db18281cde7fb66b
+      internalID: 6789403782997861822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 132
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab5c71c1c71bc146b6ef89c110da339
+      internalID: -4781573697531756814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 132
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6111c9f8889087641bea9948388c54f4
+      internalID: -7400013365675238958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 101
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa480844a1188f4fa7e6c2378d1df89
+      internalID: 6921757133808575350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 101
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b7b92dbc9af024ca8c62b7c4624e38
+      internalID: 1669486724743340127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 101
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9300ad017fe3534bb01b81dd8e9436a
+      internalID: 8397700907065885526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 101
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147342a8c2c6c414a8f9ad047055682b
+      internalID: 117006365967825193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5db8bb9e5917c94cac998b46069000e
+      internalID: -1130924651910408599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 69
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef64b97b699128489b1399279e738c4
+      internalID: 1662978737188050950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 69
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b5c3157277fdf4189d1bb0e3780491
+      internalID: -5212171456055594536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 69
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c55dc3e358780458a9275336a18e9d
+      internalID: 6341074637911480612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 36
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f1ddd9340a75a42bc3c21193d51ea1
+      internalID: -7292029611672038915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 36
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dfdfcc18e25bd4a828f2d080e8e136
+      internalID: 7222365635033926715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 36
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6fa012ad31c18428d983059d4fc7eb
+      internalID: -3074540548886403637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_23
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 36
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3516eb3649b253248b9080eb1b2a7acd
+      internalID: 8696459448638289693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 19
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f97727ed708bd4e933e9abcfe73b70
+      internalID: -6581366894409764161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3619e0058bb85e84687295fb934fcd31
+      internalID: -737803939543531925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_26
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290f0d520c02141429d6ee8df293c8b8
+      internalID: -600571352464478233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_27
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e644d0b3ce1b8ec41b2f3d0fe3a757ab
+      internalID: -1973855724563048395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friendhat_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b8ae61a0efd7b4996dab727cdf67f6
+      internalID: 992390554749434688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

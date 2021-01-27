@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3883662779430991906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4514989510114715012}
+  - component: {fileID: 2461577933181879961}
+  m_Layer: 0
+  m_Name: PackageData
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4514989510114715012
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3883662779430991906}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.3945167, y: 0.12318814, z: -444.51648}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2461577933181879961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3883662779430991906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dfc23f08242fda49b0c28185f4192fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAnimated: 1
+  grabbed: 0
+  accepted: 0
+  reject: 0
+  pos: {x: 0, y: 0, z: 0}
+  zip: 
+  ID: 0
+  address: 
+  name: 
+  item: 
+  zipA: 
+  IDA: 0
+  addressA: 
+  nameA: 
+  itemA: 
+  isSmall: 1
+  box: {fileID: 0}
+  Small_box: {fileID: 8637504241011731883, guid: f23c30da48f9ee64c9d7e7521adad33b,
+    type: 3}
+  Big_box: {fileID: 2915259426517677864, guid: db39901817277d54987ac493bb9b4337, type: 3}
+  b: {fileID: -3132262679935706729, guid: 474bfb36563059a4a8056846d60bad86, type: 3}
+  b1: {fileID: -6284065289475218955, guid: 474bfb36563059a4a8056846d60bad86, type: 3}
+  b2: {fileID: 1515023061157961113, guid: 474bfb36563059a4a8056846d60bad86, type: 3}
+  b3: {fileID: -8507358433452544852, guid: 474bfb36563059a4a8056846d60bad86, type: 3}
+  manager: {fileID: 0}
+  coworker: {fileID: 0}

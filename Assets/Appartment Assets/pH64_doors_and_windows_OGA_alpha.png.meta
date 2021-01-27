@@ -1,0 +1,1735 @@
+fileFormatVersion: 2
+guid: 9b318c47aad03c841a65749aa72c2ef4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5163510740638336338
+    second: pH64_doors_and_windows_OGA_alpha_0
+  - first:
+      213: 6565701282851611441
+    second: pH64_doors_and_windows_OGA_alpha_1
+  - first:
+      213: 4983034338795880653
+    second: pH64_doors_and_windows_OGA_alpha_2
+  - first:
+      213: 5349611948018807714
+    second: pH64_doors_and_windows_OGA_alpha_3
+  - first:
+      213: 8005173846559457099
+    second: pH64_doors_and_windows_OGA_alpha_4
+  - first:
+      213: 1439064438308900474
+    second: pH64_doors_and_windows_OGA_alpha_5
+  - first:
+      213: -3654650477354421424
+    second: pH64_doors_and_windows_OGA_alpha_6
+  - first:
+      213: 4912021115634682880
+    second: pH64_doors_and_windows_OGA_alpha_7
+  - first:
+      213: -4938409194479336621
+    second: pH64_doors_and_windows_OGA_alpha_8
+  - first:
+      213: -6166723518129121841
+    second: pH64_doors_and_windows_OGA_alpha_9
+  - first:
+      213: 3172740487768014263
+    second: pH64_doors_and_windows_OGA_alpha_10
+  - first:
+      213: 2603419437947509845
+    second: pH64_doors_and_windows_OGA_alpha_11
+  - first:
+      213: -3854754437982248785
+    second: pH64_doors_and_windows_OGA_alpha_12
+  - first:
+      213: -782644637335733420
+    second: pH64_doors_and_windows_OGA_alpha_13
+  - first:
+      213: 1752481866239624704
+    second: pH64_doors_and_windows_OGA_alpha_14
+  - first:
+      213: -307462435385562785
+    second: pH64_doors_and_windows_OGA_alpha_15
+  - first:
+      213: -7291752527658876754
+    second: pH64_doors_and_windows_OGA_alpha_16
+  - first:
+      213: -8001456818824099807
+    second: pH64_doors_and_windows_OGA_alpha_17
+  - first:
+      213: 1609091082251849912
+    second: pH64_doors_and_windows_OGA_alpha_18
+  - first:
+      213: 5310656300828113863
+    second: pH64_doors_and_windows_OGA_alpha_19
+  - first:
+      213: 6349910506896517022
+    second: pH64_doors_and_windows_OGA_alpha_20
+  - first:
+      213: 697421660997511306
+    second: pH64_doors_and_windows_OGA_alpha_21
+  - first:
+      213: 6930407195817460603
+    second: pH64_doors_and_windows_OGA_alpha_22
+  - first:
+      213: -6887657371495652443
+    second: pH64_doors_and_windows_OGA_alpha_23
+  - first:
+      213: -3793645812904763427
+    second: pH64_doors_and_windows_OGA_alpha_24
+  - first:
+      213: 944193155718048523
+    second: pH64_doors_and_windows_OGA_alpha_25
+  - first:
+      213: -1888035816125563265
+    second: pH64_doors_and_windows_OGA_alpha_26
+  - first:
+      213: -813228096469120706
+    second: pH64_doors_and_windows_OGA_alpha_27
+  - first:
+      213: 6790822394229582752
+    second: pH64_doors_and_windows_OGA_alpha_28
+  - first:
+      213: -616126557287615271
+    second: pH64_doors_and_windows_OGA_alpha_29
+  - first:
+      213: -99040261964270204
+    second: pH64_doors_and_windows_OGA_alpha_30
+  - first:
+      213: 4669071473316612313
+    second: pH64_doors_and_windows_OGA_alpha_31
+  - first:
+      213: 3320354357830151082
+    second: pH64_doors_and_windows_OGA_alpha_32
+  - first:
+      213: 8142417914371794030
+    second: pH64_doors_and_windows_OGA_alpha_33
+  - first:
+      213: -1455691173417949001
+    second: pH64_doors_and_windows_OGA_alpha_34
+  - first:
+      213: 6067902457907816462
+    second: pH64_doors_and_windows_OGA_alpha_35
+  - first:
+      213: -5423739956589930760
+    second: pH64_doors_and_windows_OGA_alpha_36
+  - first:
+      213: -2402600276986815861
+    second: pH64_doors_and_windows_OGA_alpha_37
+  - first:
+      213: -2177642622066354215
+    second: pH64_doors_and_windows_OGA_alpha_38
+  - first:
+      213: -2898222477903105256
+    second: pH64_doors_and_windows_OGA_alpha_39
+  - first:
+      213: 6716576369491640200
+    second: pH64_doors_and_windows_OGA_alpha_40
+  - first:
+      213: 5894319654721767198
+    second: pH64_doors_and_windows_OGA_alpha_41
+  - first:
+      213: 2494594943040796253
+    second: pH64_doors_and_windows_OGA_alpha_42
+  - first:
+      213: 2026302451540314353
+    second: pH64_doors_and_windows_OGA_alpha_43
+  - first:
+      213: 2828033564202768018
+    second: pH64_doors_and_windows_OGA_alpha_44
+  - first:
+      213: -1907175346559442683
+    second: pH64_doors_and_windows_OGA_alpha_45
+  - first:
+      213: 6396983268625656140
+    second: pH64_doors_and_windows_OGA_alpha_46
+  - first:
+      213: -1243735728725268252
+    second: pH64_doors_and_windows_OGA_alpha_47
+  - first:
+      213: -1772932756555713835
+    second: pH64_doors_and_windows_OGA_alpha_48
+  - first:
+      213: -8008561094611451117
+    second: pH64_doors_and_windows_OGA_alpha_49
+  - first:
+      213: -5820942215311988762
+    second: pH64_doors_and_windows_OGA_alpha_50
+  - first:
+      213: 2703714313169060310
+    second: pH64_doors_and_windows_OGA_alpha_51
+  - first:
+      213: -6651664294056585445
+    second: pH64_doors_and_windows_OGA_alpha_52
+  - first:
+      213: 8745636016651683331
+    second: pH64_doors_and_windows_OGA_alpha_53
+  - first:
+      213: -5740793597480990203
+    second: pH64_doors_and_windows_OGA_alpha_54
+  - first:
+      213: -3537648202900297662
+    second: pH64_doors_and_windows_OGA_alpha_55
+  - first:
+      213: 9158922390022676867
+    second: pH64_doors_and_windows_OGA_alpha_56
+  - first:
+      213: 6778993644408073855
+    second: pH64_doors_and_windows_OGA_alpha_57
+  - first:
+      213: -5794666182791397320
+    second: pH64_doors_and_windows_OGA_alpha_58
+  - first:
+      213: -9163348148893136152
+    second: pH64_doors_and_windows_OGA_alpha_59
+  - first:
+      213: 3983143357521107279
+    second: pH64_doors_and_windows_OGA_alpha_60
+  - first:
+      213: -5925803706881581729
+    second: pH64_doors_and_windows_OGA_alpha_61
+  - first:
+      213: 1407172279886749477
+    second: pH64_doors_and_windows_OGA_alpha_62
+  - first:
+      213: 6404981098278954825
+    second: pH64_doors_and_windows_OGA_alpha_63
+  - first:
+      213: -4648010983773755369
+    second: pH64_doors_and_windows_OGA_alpha_64
+  - first:
+      213: -6621587166373970981
+    second: pH64_doors_and_windows_OGA_alpha_65
+  - first:
+      213: -2506501177759330339
+    second: pH64_doors_and_windows_OGA_alpha_66
+  - first:
+      213: 6018522517502332423
+    second: pH64_doors_and_windows_OGA_alpha_67
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 157
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8588f44768d4414fa8cd4e698a0805f
+      internalID: -5163510740638336338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 157
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9637447ef1e5e40b91e48b7ad1a11e
+      internalID: 6565701282851611441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 166
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8e266b3dfd8b54494a4b3cb643dc2c
+      internalID: 4983034338795880653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 169
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a618e1d64c64047922abe113501e63
+      internalID: 5349611948018807714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 127
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398bea0599a5c894abbb6b0e16822cb8
+      internalID: 8005173846559457099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 127
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a4bf98f25ede046b6621f5ac8133fd
+      internalID: 1439064438308900474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 127
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1648e76e7a16917448f00a792660f761
+      internalID: -3654650477354421424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 127
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb7890498c8668448d0e9a3f69e5ffc
+      internalID: 4912021115634682880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 127
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aab98ff4d256cd46b734270aec80177
+      internalID: -4938409194479336621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 127
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe4a3da7c584847a8da9e2cd49ddb7
+      internalID: -6166723518129121841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee749ae0cc7b20049be672aabc14b4e9
+      internalID: 3172740487768014263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 127
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830a50b263b41eb478e99c548190a2f6
+      internalID: 2603419437947509845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 127
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cefa4d81efe5eb41a0a4760c8eae91a
+      internalID: -3854754437982248785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 127
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c15a53e050da64a8c799b7301dfe89
+      internalID: -782644637335733420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 118
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe29ee3beb7d6b4fb7709dcc59d57d5
+      internalID: 1752481866239624704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 118
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261bb3494cb095c4c921d20fb8fdc7e5
+      internalID: -307462435385562785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 133
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a1a98a361e7634080f79ca83eb0713
+      internalID: -7291752527658876754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 140
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dad6877f3d217418392e8249b68857
+      internalID: -8001456818824099807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 128
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669f56d4942533e46a5883c2847f5012
+      internalID: 1609091082251849912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 89
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8543c37a5f35564791834530a894ca3
+      internalID: 5310656300828113863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b13177bbfd7a144fb5887c48ed82536
+      internalID: 6349910506896517022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 97
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ce23d8d7cca7e47afb0bdadd69fd24
+      internalID: 697421660997511306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 110
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ef233edceea549bd9832ec3ac3704
+      internalID: 6930407195817460603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b15cb003f479a4182e5380469144b3
+      internalID: -6887657371495652443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 73
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd525cdd26416fb49af2a4410cd0d0c3
+      internalID: -3793645812904763427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 73
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cd37ab62dfd3643aa1d6a10a8b165c
+      internalID: 944193155718048523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 73
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19794e6f09a1aa54c940ea87c2000c60
+      internalID: -1888035816125563265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 73
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1910ae40952b17349a7e89caef319495
+      internalID: -813228096469120706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_28
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 73
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf88f6a28f6d61243926ead4a5d11bab
+      internalID: 6790822394229582752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_29
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 73
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1863ef9847e8f4b45b83c7264685aa33
+      internalID: -616126557287615271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_30
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 73
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713ee8e75da9eda46bfaf8ae5c2951b7
+      internalID: -99040261964270204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_31
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 73
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68e7c15ac952cc40bd7fe217989ba89
+      internalID: 4669071473316612313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_32
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 73
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13997345684ebac4793a9debc5e8e6d6
+      internalID: 3320354357830151082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_33
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 78
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f70760ccb88194eb549f69394db75e
+      internalID: 8142417914371794030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 86
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3139c9090b202644c9dc5fa66b87dff5
+      internalID: -1455691173417949001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 64
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb76774ebf3ce24ba8b703db668d589
+      internalID: 6067902457907816462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120a8fea86079354c9180a2f4bd48148
+      internalID: -5423739956589930760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 56
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab55f4d7bcdd9a4a96944b2cf2d9c96
+      internalID: -2402600276986815861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3ca6ae438b29f4894ac5fa18ddd21b
+      internalID: -2177642622066354215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 56
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3e07bf597afa54ca6590b794274c70
+      internalID: -2898222477903105256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 62
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4134c7df6ea2a7041b760ea15ef22f2b
+      internalID: 6716576369491640200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 44
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa0d79174e9b62459d265a2d1271c73
+      internalID: 5894319654721767198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_42
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 61
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76a1a72d12e1114587f6bf9ccb0b217
+      internalID: 2494594943040796253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_43
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 49
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0205e28d956845d42a0c34e18e21d579
+      internalID: 2026302451540314353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_44
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 37
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9997fae9d3a7b34facaf14d17893da2
+      internalID: 2828033564202768018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 56
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e03807983046cc479766d46cd672798
+      internalID: -1907175346559442683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_46
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 28
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7679071e2ff0408267c59335d0b5c
+      internalID: 6396983268625656140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_47
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 28
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3d838d0c7943c40a3cdd9c1a0d4c52
+      internalID: -1243735728725268252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_48
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 27
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69744d38829a304478709e199eee492e
+      internalID: -1772932756555713835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_49
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 27
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f602daf5594ab844a29f3f54fbbf28a
+      internalID: -8008561094611451117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 35
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616c7d3a4defa344784c84f72343ef7f
+      internalID: -5820942215311988762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 28
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2df974e907100a4cab593848ec9ecb7
+      internalID: 2703714313169060310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_52
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 32
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0ffe283b8e09246a0bf0610acf5b68
+      internalID: -6651664294056585445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 30
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ef720c609288c48888cbc6d529c06e
+      internalID: 8745636016651683331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_54
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 25
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ae183a2f09d9c4f951cbe4e79da15d
+      internalID: -5740793597480990203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_55
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 30
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6318431df74f547a368f6ac21a5055
+      internalID: -3537648202900297662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 24
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a4612d2882b64f80b3ca40fb8e863
+      internalID: 9158922390022676867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_57
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 9
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66a8ab0c0aab244b81b6f7f20f1d2ad
+      internalID: 6778993644408073855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_58
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d039a155105c0a1428e356c7d8a7584b
+      internalID: -5794666182791397320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_59
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e8a876dd2ed244e9e7c91dacce35d7
+      internalID: -9163348148893136152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_60
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5063a47188750644cba807988c2f8aca
+      internalID: 3983143357521107279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_61
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e83495aba289547bdc5cc78a99691e
+      internalID: -5925803706881581729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_62
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f4fffc77fc8714f9933b6f404e9827
+      internalID: 1407172279886749477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd90d746b34425d40b4444961abd82aa
+      internalID: 6404981098278954825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b0fac2c63b0646b004c881c9bb2a3
+      internalID: -4648010983773755369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_65
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 13
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0fe8255205feb48a76c9690524132b
+      internalID: -6621587166373970981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_66
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 6
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e0bc10d8bed5047bcf7db2cc73533f
+      internalID: -2506501177759330339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_doors_and_windows_OGA_alpha_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fe1d85b4c28874a905f79e9db3c3ac
+      internalID: 6018522517502332423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

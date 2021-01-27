@@ -1,0 +1,967 @@
+fileFormatVersion: 2
+guid: 31e3a1bcb3389f04dacdbc1c66bd3c90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4772136710934532599
+    second: pixel_icons_by_oceansdream_0
+  - first:
+      213: 5701881317478409644
+    second: pixel_icons_by_oceansdream_1
+  - first:
+      213: 3610901184497584228
+    second: pixel_icons_by_oceansdream_2
+  - first:
+      213: 8512281786652398128
+    second: pixel_icons_by_oceansdream_3
+  - first:
+      213: -4252949390220127418
+    second: pixel_icons_by_oceansdream_4
+  - first:
+      213: -1246065136915805666
+    second: pixel_icons_by_oceansdream_5
+  - first:
+      213: 4895071200968700983
+    second: pixel_icons_by_oceansdream_6
+  - first:
+      213: 3724052030013992400
+    second: pixel_icons_by_oceansdream_7
+  - first:
+      213: -3943728713248559262
+    second: pixel_icons_by_oceansdream_8
+  - first:
+      213: 4155519423470362183
+    second: pixel_icons_by_oceansdream_9
+  - first:
+      213: -4151378012501820753
+    second: pixel_icons_by_oceansdream_10
+  - first:
+      213: 2872111991127842577
+    second: pixel_icons_by_oceansdream_11
+  - first:
+      213: -2550754876277851823
+    second: pixel_icons_by_oceansdream_12
+  - first:
+      213: 3270351332349166288
+    second: pixel_icons_by_oceansdream_13
+  - first:
+      213: -5203148438412340639
+    second: pixel_icons_by_oceansdream_14
+  - first:
+      213: -1851448605851845410
+    second: pixel_icons_by_oceansdream_15
+  - first:
+      213: 4627178653678642191
+    second: pixel_icons_by_oceansdream_16
+  - first:
+      213: -3490969963958187715
+    second: pixel_icons_by_oceansdream_17
+  - first:
+      213: -4560062870333045774
+    second: pixel_icons_by_oceansdream_18
+  - first:
+      213: 2299234406889969375
+    second: pixel_icons_by_oceansdream_19
+  - first:
+      213: -4073898460443094205
+    second: pixel_icons_by_oceansdream_20
+  - first:
+      213: -4188606254149938870
+    second: pixel_icons_by_oceansdream_21
+  - first:
+      213: 1133057315985132710
+    second: pixel_icons_by_oceansdream_22
+  - first:
+      213: 2661703351898629648
+    second: pixel_icons_by_oceansdream_23
+  - first:
+      213: -5605378605989548741
+    second: pixel_icons_by_oceansdream_24
+  - first:
+      213: -1101654798444942185
+    second: pixel_icons_by_oceansdream_25
+  - first:
+      213: 1152801755902978851
+    second: pixel_icons_by_oceansdream_26
+  - first:
+      213: 1546191752449854985
+    second: pixel_icons_by_oceansdream_27
+  - first:
+      213: -8408942062989512992
+    second: pixel_icons_by_oceansdream_28
+  - first:
+      213: -1444953129467669906
+    second: pixel_icons_by_oceansdream_29
+  - first:
+      213: 6495581915491745174
+    second: pixel_icons_by_oceansdream_30
+  - first:
+      213: -4188449462523493362
+    second: pixel_icons_by_oceansdream_31
+  - first:
+      213: 2320897334311945319
+    second: pixel_icons_by_oceansdream_32
+  - first:
+      213: -7584855061546617514
+    second: pixel_icons_by_oceansdream_33
+  - first:
+      213: 2735203761349529177
+    second: pixel_icons_by_oceansdream_34
+  - first:
+      213: -786432596313170985
+    second: pixel_icons_by_oceansdream_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e011a19a60ae847a200aa01f16cbe2
+      internalID: 4772136710934532599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 124
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ee64b04767e04a8e138077db0502e
+      internalID: 5701881317478409644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 123
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e05df066914ce408ab5979e50029e2
+      internalID: 3610901184497584228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 124
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d2913315862fa409f918d07e879d6c
+      internalID: 8512281786652398128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 121
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53fc639dfa077742a383bf808ba0441
+      internalID: -4252949390220127418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 122
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb76f20e1f06ad4393a15c2a636e240
+      internalID: -1246065136915805666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5a6f89681f757488b4a8b0e839236f
+      internalID: 4895071200968700983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e808fd3b8388d40a4d1e28b3a631bd
+      internalID: 3724052030013992400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df9babb6ed59bb4db523e1817a4a392
+      internalID: -3943728713248559262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 97
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dda5e18a9ca954c832c007c8e5b5e2
+      internalID: 4155519423470362183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 100
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2447a245d7b2984585ef9341c41bb58
+      internalID: -4151378012501820753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 100
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f3aa692a4ddd04b85e8179f42864d2
+      internalID: 2872111991127842577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b2b49892d172243930428350f45a83
+      internalID: -2550754876277851823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 78
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab74f9dce741d0448d3ba84e9007dbb
+      internalID: 3270351332349166288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 77
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a7a9d819fe678429d76deac5bc5e01
+      internalID: -5203148438412340639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 72
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8c92f295ae48748bdf7b2f9e55e1d6
+      internalID: -1851448605851845410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 74
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ba5918fe439a48b16bb2f6a3bb788
+      internalID: 4627178653678642191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 73
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87254d3566b6803469567b88b1b6a58e
+      internalID: -3490969963958187715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 52
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a73bac21a5c9c45b4532e289c99107
+      internalID: -4560062870333045774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 50
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3fbcaa69d3bcd44990031beeb75e90
+      internalID: 2299234406889969375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9f5c986f08eea41819d7bad1148dbf
+      internalID: -4073898460443094205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 52
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff748b125be3c47bac37d8ca2d4f43
+      internalID: -4188606254149938870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d7c0267198db94f9dc6a0eab6d161a
+      internalID: 1133057315985132710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 50
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4516212c643f52a4db1b6ce7a041a791
+      internalID: 2661703351898629648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 27
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb2a064629ba7e4ab866979b20de63c
+      internalID: -5605378605989548741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 26
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cce139fe9560c439e9a216f7fe6399
+      internalID: -1101654798444942185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 26
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92586a9adcf1a34b8e79998bf3fc9c9
+      internalID: 1152801755902978851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 25
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe3ef40f86d904479b8acd2319fd775
+      internalID: 1546191752449854985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 25
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e0af61dd7823541ac83a212da232e6
+      internalID: -8408942062989512992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 25
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55db750bd5ec71c448d3713ef9178f33
+      internalID: -1444953129467669906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2080f4952612a42869bdfbcb86288b
+      internalID: 6495581915491745174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_31
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756ce06171e04e64a9008daa2f0c611d
+      internalID: -4188449462523493362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8511d60021358ee43af8c8083994af1d
+      internalID: 2320897334311945319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c76a6f446a374a85802341cf2932d
+      internalID: -7584855061546617514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_34
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d530b0f0fb5034181fbad70c0a6816
+      internalID: 2735203761349529177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_icons_by_oceansdream_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5210cbe1d15204cb3cad92d68b5999
+      internalID: -786432596313170985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

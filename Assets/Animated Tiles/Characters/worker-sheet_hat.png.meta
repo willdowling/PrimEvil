@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 12c063cdd18166b4585206a32d87f14c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5336952619361083320
+    second: worker-sheet_hat_0
+  - first:
+      213: -290607115322743018
+    second: worker-sheet_hat_1
+  - first:
+      213: -3475812371686490444
+    second: worker-sheet_hat_2
+  - first:
+      213: -665912915069026809
+    second: worker-sheet_hat_3
+  - first:
+      213: -8964295554134389739
+    second: worker-sheet_hat_4
+  - first:
+      213: 5758469899162996292
+    second: worker-sheet_hat_5
+  - first:
+      213: -1616588039003477673
+    second: worker-sheet_hat_6
+  - first:
+      213: -3989618709900991778
+    second: worker-sheet_hat_7
+  - first:
+      213: 5270168355856435679
+    second: worker-sheet_hat_8
+  - first:
+      213: 4888573540032743232
+    second: worker-sheet_hat_9
+  - first:
+      213: -9037736267775396304
+    second: worker-sheet_hat_10
+  - first:
+      213: -3615419212113295171
+    second: worker-sheet_hat_11
+  - first:
+      213: -3092484360579627802
+    second: worker-sheet_hat_12
+  - first:
+      213: -6378236918666678836
+    second: worker-sheet_hat_13
+  - first:
+      213: 8266004743299796926
+    second: worker-sheet_hat_14
+  - first:
+      213: -880930922099832604
+    second: worker-sheet_hat_15
+  - first:
+      213: -5148558914207216388
+    second: worker-sheet_hat_16
+  - first:
+      213: -7246563597043788823
+    second: worker-sheet_hat_17
+  - first:
+      213: 1401512171359672286
+    second: worker-sheet_hat_18
+  - first:
+      213: -4793260349063148733
+    second: worker-sheet_hat_19
+  - first:
+      213: -1443770828272843177
+    second: worker-sheet_hat_20
+  - first:
+      213: 4912195061555676784
+    second: worker-sheet_hat_21
+  - first:
+      213: -5583249459514114588
+    second: worker-sheet_hat_22
+  - first:
+      213: -637102152612206141
+    second: worker-sheet_hat_23
+  - first:
+      213: -4950357529831284970
+    second: worker-sheet_hat_24
+  - first:
+      213: -8283353093649411388
+    second: worker-sheet_hat_25
+  - first:
+      213: 3122834593686647981
+    second: worker-sheet_hat_26
+  - first:
+      213: 5768618087130455721
+    second: worker-sheet_hat_27
+  - first:
+      213: 2333715593603382400
+    second: worker-sheet_hat_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: worker-sheet_hat_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 196
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be58397d8a5061c45907d9b05822cfa9
+      internalID: 5336952619361083320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 196
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f47fab78b5651948bad53421c67e7f4
+      internalID: -290607115322743018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 196
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c281d1259c9769c4e97b0e2cda7ff023
+      internalID: -3475812371686490444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 196
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef92408eb33c084980475b7e900e6fa
+      internalID: -665912915069026809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 164
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2d204b3115c4e4da33af77b3d071a9
+      internalID: -8964295554134389739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 164
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d7cff6cc9b6ce4a8883190fa41b260
+      internalID: 5758469899162996292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 164
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f206313da1bac4b88e981639e8e941
+      internalID: -1616588039003477673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 164
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f855c3e6f82c24eabbe26ce14c4ca4
+      internalID: -3989618709900991778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c141eb65ecb7649936da4ecbbef70a
+      internalID: 5270168355856435679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 132
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2db81ff8a4958943ab8f881880427b7
+      internalID: 4888573540032743232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 132
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee7377b88967b6448e5f6b7cf4da4cf
+      internalID: -9037736267775396304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 132
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec63b5e1be1fae941886ef6d366b37b8
+      internalID: -3615419212113295171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 101
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837be96187d10b448a5f0df8d135428f
+      internalID: -3092484360579627802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 101
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada565ccd9b719408b4fcdfa3263ef0
+      internalID: -6378236918666678836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 101
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a339c673d895e4b8ed9f519ab557f3
+      internalID: 8266004743299796926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 101
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7dadd32ef772b458798275377307bc
+      internalID: -880930922099832604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692562aea4ddeeb4eaea48d30ced80e8
+      internalID: -5148558914207216388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 69
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a119446905546449dd0331b2f9b26b
+      internalID: -7246563597043788823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 69
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64123192b5909a549a445fc3042714a0
+      internalID: 1401512171359672286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 69
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4a871a1a104634d85eca0e99435a38
+      internalID: -4793260349063148733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 36
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df90669061f1c3b488d11c4f57269f2a
+      internalID: -1443770828272843177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 36
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bd6cb3fe4dcf649afe8f86f3a0e3e7
+      internalID: 4912195061555676784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 36
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720e07001c20c084f937eed72812c5dd
+      internalID: -5583249459514114588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_23
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 36
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1bd81f31bffe640b1aa2c70250606c
+      internalID: -637102152612206141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 19
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405c741f0663c5846a75261ee6df0c6d
+      internalID: -4950357529831284970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad7e6c7bcb9bd74aa8fbf535cc704d3
+      internalID: -8283353093649411388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_26
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f51443b78782804bb748f5e586a87a0
+      internalID: 3122834593686647981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_27
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92bd4f86dc39c945802a69ad1e8ed65
+      internalID: 5768618087130455721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker-sheet_hat_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2b487d4768d0146ba676a60f24b790
+      internalID: 2333715593603382400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
