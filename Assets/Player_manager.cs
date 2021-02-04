@@ -65,7 +65,7 @@ public class Player_manager : MonoBehaviour
     }
 
         // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         
         energy -= 0.01f;

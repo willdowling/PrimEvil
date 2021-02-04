@@ -51,7 +51,14 @@ public class BoxManager : MonoBehaviour
             Packages.Add(data);
         }
     }
-
+    private void FixedUpdate()
+    {
+        if (Packages != null)
+        {
+            Vector2 position = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            checkPackage(position);
+        }
+    }
     // Update is called once per frame
     void Update()
     {
@@ -65,10 +72,7 @@ public class BoxManager : MonoBehaviour
         }
 
         Vector2 position = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        if (Packages != null)
-        {
-            checkPackage(position);
-        }
+        
         
 
         if (Input.GetMouseButtonDown(0) && Packages != null)

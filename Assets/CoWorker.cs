@@ -34,7 +34,7 @@ public class CoWorker : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         if (GameData.coworker)
         {

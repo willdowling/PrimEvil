@@ -40,7 +40,7 @@ public class Tally : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         switch (tally.incorrect % 10)
         {
