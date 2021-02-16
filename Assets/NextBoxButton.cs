@@ -25,7 +25,7 @@ public class NextBoxButton : MonoBehaviour
         snd = GetComponent<AudioSource>();
     }
 
-    // Update is called once per frame
+    //Input checks on whether the button is clicked if so spawn a box
     void Update()
     {
         Vector2 pos = Camera.main.ScreenToWorldPoint(Input.mousePosition);

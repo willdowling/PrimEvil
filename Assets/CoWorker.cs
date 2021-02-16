@@ -19,6 +19,7 @@ public class CoWorker : MonoBehaviour
     {
         boxes = new List<GameObject>();
 
+        //checks to see if you bought your coworker a mask or not and updates his sprite
         if (GameData.comask)
         {
             Co.SetBool("HasMask", true);

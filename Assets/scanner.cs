@@ -18,7 +18,7 @@ public class scanner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        //if scanner is clicked it needs to follow the mouse until released then return to toolbelt
         Vector2 pos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         if (Input.GetMouseButtonDown(0))
         {

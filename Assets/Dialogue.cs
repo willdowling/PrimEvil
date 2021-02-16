@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-
+//Dialogue component to easily edit what is said by who and when.
 [System.Serializable]
 public class Dialogue
 {

@@ -39,6 +39,7 @@ public class RFID : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D c)
     {
+        //if the scanner scans  box play a sound and update the text to the one corresponding to box
         if (c.GetComponent<BoxCollider2D>().tag == "Package")
         {
             if (play)

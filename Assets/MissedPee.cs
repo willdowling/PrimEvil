@@ -15,6 +15,7 @@ public class MissedPee : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //when pee isn't collected add to counter and destroy indivicual particle
         if(this.transform.position.y < -8.5f)
         {
             p.pissed += 1;

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 using UnityEngine.UI;
-
+// class to keep the stats bars up to date
 public class StatsBar : MonoBehaviour
 {
     public Slider slider;

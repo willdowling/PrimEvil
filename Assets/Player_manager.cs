@@ -64,7 +64,7 @@ public class Player_manager : MonoBehaviour
         }
     }
 
-        // Update is called once per frame
+        // Values that need to be incremented or decremented on a consistent frame update
     void FixedUpdate()
     {
         
@@ -104,6 +104,7 @@ public class Player_manager : MonoBehaviour
         }
     }
 
+    //Spawn yellow particles from the right side of the screen with noise for its starting height and force.
     public void StartPiss()
     {
         Water2D.Water2D_Spawner.instance.Start();
@@ -121,6 +122,8 @@ public class Player_manager : MonoBehaviour
         
     }
 
+
+    //Determines how much money the player will receive depending on performance, with bonuses and deductions
     void GetMoney()
     {
         if (!moneyChanged)
@@ -214,6 +217,8 @@ public class Player_manager : MonoBehaviour
         }
     }
 
+
+    //Start transition, set values for text and load next scene
     IEnumerator LoadScene()
     {
         if (GameData.day == 7)

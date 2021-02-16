@@ -34,7 +34,7 @@ public class PackageData : MonoBehaviour
     // Start is called before the first frame update
     public void Start()
     {
-
+        //When initialized must determine what game flags are so certain types of boxes can be spawned
 
         box = Small_box;
         var random = new Bogus.Randomizer();
@@ -49,13 +49,14 @@ public class PackageData : MonoBehaviour
         }
         else if (coworker)
         {
+            //if the coworker is missing spawn a box on his line
             pos = new Vector3(-15f, 1.8f, 0f);
         }
         num = random.Number(1, 2);
         GeneratePackage();
 
         GenerateAnswer(num);
-
+        //pick a random box sprite to look as and instantiate
         num = random.Number(1, 4);
         switch (num)
         {
@@ -79,11 +80,13 @@ public class PackageData : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //keep updating pos from the box class
         pos = box.transform.position;
     }
 
     public void GeneratePackage()
     {
+        //assigns random data to the box the player must check matches screen
         var random = new Bogus.Randomizer();
         var data = new Bogus.DataSets.Commerce("en");
         var local = new Bogus.DataSets.Address("en");
@@ -96,6 +99,7 @@ public class PackageData : MonoBehaviour
     }
     public void ChangeBox()
     {
+        //when called swaps the gameobjects for a workstation box or a small one
         if (isSmall)
         {
             Destroy(box);
@@ -115,6 +119,7 @@ public class PackageData : MonoBehaviour
     }
     public void GenerateAnswer(int num)
     {
+        //if num is 1 generate 1 false answer if not set the answer to the values already asssigned
         var random = new Bogus.Randomizer();
         var data = new Bogus.DataSets.Commerce("en");
         var local = new Bogus.DataSets.Address("en");

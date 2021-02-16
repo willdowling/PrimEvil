@@ -39,7 +39,7 @@ public class Tally : MonoBehaviour
         
     }
 
-    // Update is called once per frame
+    // Nightmarish clock solution to update the sprite each time the digit changes
     void FixedUpdate()
     {
         switch (tally.incorrect % 10)

@@ -45,6 +45,7 @@ public class Stamping : MonoBehaviour
             RaycastHit2D hit = Physics2D.Raycast(pos, Vector2.zero);
             if (hit.collider == stamp.GetComponent<BoxCollider2D>())
             {
+                //if player clicks on stamp rotate to signify it is grabbed and set grabbed to true
                 stamp.transform.Rotate(0f, 0f, -30f);
                 isgrabbed = true;
             }
@@ -52,6 +53,7 @@ public class Stamping : MonoBehaviour
         if (isgrabbed) {
         
             stamp.transform.position = pos;
+            //when grabbed is true follow the position of the mouse
         }
         
         if (Input.GetMouseButtonUp(0))
@@ -61,6 +63,7 @@ public class Stamping : MonoBehaviour
                 isgrabbed = false;
                 stamp.transform.Rotate(0f, 0f, 30f);
                 stamp.transform.position = startpos;
+                //when mouse is lifted return to toolbelt position
             }
         }
 
@@ -68,6 +71,7 @@ public class Stamping : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D c)
     {
+        //when the collider of the stamp triggers on a package stamp with a random corresponding stamp
         if (c.GetComponent<BoxCollider2D>().tag == "Package" && isgrabbed)
         {
             boxRend = c.transform.Find("stamped").gameObject.GetComponent<SpriteRenderer>();
@@ -114,7 +118,7 @@ public class Stamping : MonoBehaviour
         }
         if (m_LastPressTime + m_PressDelay < Time.unscaledTime)
         {
-
+            //if stamp triggers witht the stamp box change the stamp to red or green
             m_LastPressTime = Time.unscaledTime;
             if (c.gameObject.name == "Reject Pad" && isgrabbed)
             {

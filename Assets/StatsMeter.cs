@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class StatsMeter : MonoBehaviour
 {
+
+    // class to keep the stats bars up to date
     public Slider energy;
     public Slider bladder;
 

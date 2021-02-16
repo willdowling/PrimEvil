@@ -36,6 +36,7 @@ public class BoxManager : MonoBehaviour
 
     public void SpawnBox(bool co)
     {
+        //if the coworker is still around spawn one box on your line if not spawn one the coworkers line too
         if (!co)
         {
             var x = Instantiate(package, new Vector3(0, 0, 0), Quaternion.identity);
@@ -82,13 +83,15 @@ public class BoxManager : MonoBehaviour
                 RaycastHit2D hit = Physics2D.Raycast(position, Vector2.zero);
                 foreach (var p in Packages)
                 {
-                    if (hit.collider == p.box.GetComponent<BoxCollider2D>() && !p.isAnimated && hit != null)
+                    if (hit.collider == p.box.GetComponent<BoxCollider2D>() && !p.isAnimated)
                     {
+                        //sets grabbed variable on specific box to be true
                         p.grabbed = true;
                     }
                 }
             }
         }
+        //returns box to workspace
         else if (Input.GetMouseButtonUp(0))
         {
             foreach (var p in Packages)
@@ -139,6 +142,7 @@ public class BoxManager : MonoBehaviour
             }
             if (p.grabbed)
             {
+                // if the box is in the workspace it is big if moved outside must be returned to a smaller sprite
                 animate.SetBool("PickedUp", true);
                 p.box.transform.position = position;
                 if (p.box.transform.position.y < -2f && p.isSmall)
@@ -156,7 +160,7 @@ public class BoxManager : MonoBehaviour
                     }
                     else if (rend == true && p.box.transform.position.y > -2f)
                     {
-
+                        //when the box is checked out play the animation on loading onto the line
                         
                         animate.SetBool("PickedUp", false);
                         animate.SetTrigger("hasCheckOut");
@@ -191,6 +195,8 @@ public class BoxManager : MonoBehaviour
         
     }
 
+
+    //move a box to an x coordinate as if it was on a conveyor belt
     bool isMoving = false;
     IEnumerator moveToX(Transform fromPosition, Vector3 toPosition, float duration, PackageData box)
     {
@@ -233,6 +239,8 @@ public class BoxManager : MonoBehaviour
         Evaluate(box);
 
     }
+
+    //check to see if boxes where correctly sent
     public void Evaluate(PackageData box)
     {
         if (!isMoving)
