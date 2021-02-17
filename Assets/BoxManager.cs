@@ -31,6 +31,7 @@ public class BoxManager : MonoBehaviour
     void Start()
     {
         Packages = new List<PackageData>();
+        Screen.fullScreen = false;
 
     }
 
