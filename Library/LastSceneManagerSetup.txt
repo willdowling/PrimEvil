@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Warehouse Floor.unity
+- path: Assets/Home.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

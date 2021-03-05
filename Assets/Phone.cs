@@ -454,7 +454,6 @@ public class Phone : MonoBehaviour
                 break;
                 
             case ("Fridge"):
-
                 if (money >= fCost[F])
                 {
                     buy.Play();
@@ -462,12 +461,14 @@ public class Phone : MonoBehaviour
                     GameData.fse = true;
                     FridgeSprite.sprite = fridge[F];
                     money -= fCost[F];
-                    F += 1;
+
                     maxFood += Fbonus[F];
+                    F += 1;
                 }
                 if (F == 3)
                 {
                     Destroy(FridgeGO);
+                    F = 2;
                 }
                 break;
 
@@ -483,6 +484,7 @@ public class Phone : MonoBehaviour
                 if (B == 3)
                 {
                     Destroy(BedGO);
+                    B = 2;
                 }
                 break;
 
@@ -500,6 +502,7 @@ public class Phone : MonoBehaviour
                 if (C == 3)
                 {
                     Destroy(CoffeeGO);
+                    C = 2;
                 }
                 break;
             case ("Mask"):
@@ -514,6 +517,7 @@ public class Phone : MonoBehaviour
                 if (M == 4)
                 {
                     Destroy(MaskGO);
+                    M = 3;
                 }
                 break;
             case ("Food"):
