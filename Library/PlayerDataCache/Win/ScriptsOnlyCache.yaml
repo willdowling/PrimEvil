@@ -85,25 +85,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 628}
+      Script: {instanceID: 642}
     - Class: 114
-      Script: {instanceID: 15734}
+      Script: {instanceID: 1540}
     - Class: 114
-      Script: {instanceID: 15766}
+      Script: {instanceID: 1572}
     - Class: 114
-      Script: {instanceID: 15950}
+      Script: {instanceID: 1760}
     - Class: 114
-      Script: {instanceID: 16176}
+      Script: {instanceID: 1994}
     - Class: 114
-      Script: {instanceID: 16494}
+      Script: {instanceID: 2314}
     - Class: 114
-      Script: {instanceID: 16930}
+      Script: {instanceID: 2758}
     - Class: 114
-      Script: {instanceID: 17114}
+      Script: {instanceID: 2944}
     - Class: 114
-      Script: {instanceID: 17364}
+      Script: {instanceID: 3200}
     - Class: 114
-      Script: {instanceID: 17706}
+      Script: {instanceID: 3544}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -168,61 +168,61 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 628}
+      Script: {instanceID: 642}
     - Class: 114
-      Script: {instanceID: 15734}
+      Script: {instanceID: 1540}
     - Class: 114
-      Script: {instanceID: 15950}
+      Script: {instanceID: 1760}
     - Class: 114
-      Script: {instanceID: 16062}
+      Script: {instanceID: 1876}
     - Class: 114
-      Script: {instanceID: 16072}
+      Script: {instanceID: 1886}
     - Class: 114
-      Script: {instanceID: 16282}
+      Script: {instanceID: 2100}
     - Class: 114
-      Script: {instanceID: 16374}
+      Script: {instanceID: 2192}
     - Class: 114
-      Script: {instanceID: 16462}
+      Script: {instanceID: 2280}
     - Class: 114
-      Script: {instanceID: 16480}
+      Script: {instanceID: 2298}
     - Class: 114
-      Script: {instanceID: 16494}
+      Script: {instanceID: 2314}
     - Class: 114
-      Script: {instanceID: 16592}
+      Script: {instanceID: 2412}
     - Class: 114
-      Script: {instanceID: 16770}
+      Script: {instanceID: 2598}
     - Class: 114
-      Script: {instanceID: 16900}
+      Script: {instanceID: 2728}
     - Class: 114
-      Script: {instanceID: 16930}
+      Script: {instanceID: 2758}
     - Class: 114
-      Script: {instanceID: 16978}
+      Script: {instanceID: 2806}
     - Class: 114
-      Script: {instanceID: 17104}
+      Script: {instanceID: 2934}
     - Class: 114
-      Script: {instanceID: 17130}
+      Script: {instanceID: 2960}
     - Class: 114
-      Script: {instanceID: 17212}
+      Script: {instanceID: 3044}
     - Class: 114
-      Script: {instanceID: 17250}
+      Script: {instanceID: 3084}
     - Class: 114
-      Script: {instanceID: 17254}
+      Script: {instanceID: 3088}
     - Class: 114
-      Script: {instanceID: 17340}
+      Script: {instanceID: 3174}
     - Class: 114
-      Script: {instanceID: 17356}
+      Script: {instanceID: 3192}
     - Class: 114
-      Script: {instanceID: 17364}
+      Script: {instanceID: 3200}
     - Class: 114
-      Script: {instanceID: 17580}
+      Script: {instanceID: 3418}
     - Class: 114
-      Script: {instanceID: 17584}
+      Script: {instanceID: 3422}
     - Class: 114
-      Script: {instanceID: 17632}
+      Script: {instanceID: 3470}
     - Class: 114
-      Script: {instanceID: 17690}
+      Script: {instanceID: 3528}
     - Class: 114
-      Script: {instanceID: 17752}
+      Script: {instanceID: 3592}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -830,4 +830,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Warehouse Floor.unity
   - Assets/Home.unity
-  playerPath: C:/Users/willd/Documents/Unity Projects/PrimEvil/PrimEvil.exe
+  playerPath: C:/Users/willd/Documents/Unity Projects/PrimEvil/Game/PrimEvil.exe
