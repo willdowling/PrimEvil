@@ -137,10 +137,10 @@ public class Player_manager : MonoBehaviour
             if (GameData.incorrect != 0)
             {
                 expenses.text = "Expenses: \n Rent -$25 \n Medicine -$5";
-                money.text = "$" + prevMoney + " + $" + box.correct * 10 + " - $" + box.incorrect * 5 + " - $25 - $5" + "\n = $" + GameData.money;
+                money.text = "$" + prevMoney + " + $" + box.correct * 25 + " - $" + box.incorrect * 5 + " - $25 - $5" + "\n = $" + GameData.money;
                 if (!moneyChanged)
                 {
-                    GameData.money = GameData.money + ((box.correct * 10 - box.incorrect * 5) - 30);
+                    GameData.money = GameData.money + ((box.correct * 25 - box.incorrect * 10) - 30);
                     moneyChanged = true;
                 }
                 if (GameData.money < 0)
@@ -157,10 +157,10 @@ public class Player_manager : MonoBehaviour
             else if(GameData.incorrect == 0)
             {
                 expenses.text = "Expenses: \n Rent -$25 \n Medicine -$5 \n No mistakes bonus + $15";
-                money.text = "$" + prevMoney + " + $" + box.correct * 10 + " - $" + box.incorrect * 5 + " - $25 - $5 + $15" + "\n = $" + GameData.money;
+                money.text = "$" + prevMoney + " + $" + box.correct * 25 + " - $" + box.incorrect * 5 + " - $25 - $5 + $15" + "\n = $" + GameData.money;
                 if (!moneyChanged)
                 {
-                    GameData.money = GameData.money + ((box.correct * 10 - box.incorrect * 5) - 15);
+                    GameData.money = GameData.money + ((box.correct * 25 - box.incorrect * 10) - 15);
                     moneyChanged = true;
                 }
                 if (GameData.money < 0)
@@ -181,10 +181,10 @@ public class Player_manager : MonoBehaviour
             if (GameData.incorrect != 0)
             {
                 expenses.text = "Expenses: \n Rent -$25";
-                money.text = "$" + prevMoney + " + $" + box.correct * 10 + " - $" + box.incorrect * 5 + " - $25" + "\n = $" + GameData.money;
+                money.text = "$" + prevMoney + " + $" + box.correct * 25 + " - $" + box.incorrect * 5 + " - $25" + "\n = $" + GameData.money;
                 if (!moneyChanged)
                 {
-                    GameData.money = GameData.money + ((box.correct * 10 - box.incorrect * 5) - 25);
+                    GameData.money = GameData.money + ((box.correct * 25 - box.incorrect * 10) - 25);
                     moneyChanged = true;
                 }
                 if (GameData.money < 0)
@@ -199,10 +199,10 @@ public class Player_manager : MonoBehaviour
             else if(GameData.incorrect == 0)
             {
                 expenses.text = "Expenses: \n Rent -$25 \n No mistakes bonus +$15";
-                money.text = "$" + prevMoney + " + $" + box.correct * 10 + " - $" + box.incorrect * 5 + " - $25 + $15" + "\n = $" + GameData.money;
+                money.text = "$" + prevMoney + " + $" + box.correct * 25 + " - $" + box.incorrect * 5 + " - $25 + $15" + "\n = $" + GameData.money;
                 if (!moneyChanged)
                 {
-                    GameData.money = GameData.money + ((box.correct * 10 - box.incorrect * 5) - 10);
+                    GameData.money = GameData.money + ((box.correct * 25 - box.incorrect * 10) - 10);
                     moneyChanged = true;
                 }
                 if (GameData.money < 0)
