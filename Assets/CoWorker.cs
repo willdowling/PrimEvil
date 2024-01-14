@@ -13,10 +13,11 @@ public class CoWorker : MonoBehaviour
     public List<GameObject> boxes;
     public Animator Co;
     public SpriteRenderer rend;
-
+    private Faker faker;
     // Start is called before the first frame update
     void Start()
     {
+        faker = new Faker("en");
         boxes = new List<GameObject>();
 
         //checks to see if you bought your coworker a mask or not and updates his sprite
@@ -70,8 +71,7 @@ public class CoWorker : MonoBehaviour
                 }
                 else
                 {
-                    var random = new Bogus.Randomizer();
-                    int num = random.Number(1, 2);
+                    int num = faker.Random.Number(1, 2);
                     if (num == 1)
                     {
                         b.transform.position += new Vector3(0f, 0.04f, 0f);

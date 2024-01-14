@@ -29,16 +29,16 @@ public class PackageData : MonoBehaviour
     public Sprite b2;
     public Sprite b3;
     public bool coworker;
+    private Faker faker;
 
 
     // Start is called before the first frame update
     public void Start()
     {
         //When initialized must determine what game flags are so certain types of boxes can be spawned
-
+        faker = new Faker("en");
         box = Small_box;
-        var random = new Bogus.Randomizer();
-        int num = random.Number(1, 2);
+        int num = faker.Random.Number(1, 2);
         if (num == 1 && !coworker)
         {
             pos = new Vector3(9.5f, 9f, 0f);
@@ -52,12 +52,12 @@ public class PackageData : MonoBehaviour
             //if the coworker is missing spawn a box on his line
             pos = new Vector3(-15f, 1.8f, 0f);
         }
-        num = random.Number(1, 2);
+        num = faker.Random.Number(1, 2);
         GeneratePackage();
 
         GenerateAnswer(num);
         //pick a random box sprite to look as and instantiate
-        num = random.Number(1, 4);
+        num = faker.Random.Number(1, 4);
         switch (num)
         {
             case 1:
@@ -87,15 +87,11 @@ public class PackageData : MonoBehaviour
     public void GeneratePackage()
     {
         //assigns random data to the box the player must check matches screen
-        var random = new Bogus.Randomizer();
-        var data = new Bogus.DataSets.Commerce("en_GB");
-        var local = new Bogus.DataSets.Address("en_GB");
-        var user = new Bogus.DataSets.Name("en_GB");
-        zip = local.ZipCode();
-        address = local.StreetAddress();
-        ID = random.Number(1, 9999);
-        item = data.Product();
-        name = user.FullName();
+        zip = faker.Address.ZipCode();
+        address = faker.Address.StreetAddress();
+        ID = faker.Random.Number(1, 9999);
+        item = faker.Commerce.Product();
+        name = faker.Name.FullName();
     }
     public void ChangeBox()
     {
@@ -120,11 +116,6 @@ public class PackageData : MonoBehaviour
     public void GenerateAnswer(int num)
     {
         //if num is 1 generate 1 false answer if not set the answer to the values already asssigned
-        var random = new Bogus.Randomizer();
-        var data = new Bogus.DataSets.Commerce("en");
-        var local = new Bogus.DataSets.Address("en");
-        var user = new Bogus.DataSets.Name("en");
-
         reject = false;
         zipA = zip;
         addressA = address;
@@ -134,26 +125,26 @@ public class PackageData : MonoBehaviour
         if (num==1)
         {
             reject = true;
-            int numb = random.Number(1, 5);
+            int numb = faker.Random.Number(1, 5);
             if(numb == 1)
             {
-                zipA = zip = local.ZipCode();
+                zipA = zip = faker.Address.ZipCode();
             }
             if(numb == 2)
             {
-                address = local.StreetAddress();
+                address = faker.Address.StreetAddress();
             }
             if(numb == 3) 
             {
-                ID = random.Number(1, 9999);
+                ID = faker.Random.Number(1, 9999);
             }
             if(numb == 4)
             {
-                item = data.Product();
+                item = faker.Commerce.Product();
             }
             else
             {
-                name = user.FullName();
+                name = faker.Name.FullName();
             }
         }
     }

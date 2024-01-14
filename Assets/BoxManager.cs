@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Bogus;
 
 
 public class BoxManager : MonoBehaviour
@@ -16,10 +15,10 @@ public class BoxManager : MonoBehaviour
     public Animator animate;
     private SpriteRenderer rend;
     private Vector3 p;
-    public int correct=0;
-    public int incorrect=0;
+    public int correct = 0;
+    public int incorrect = 0;
 
-    public int c=0;
+    public int c = 0;
 
     float m_LastPressTime;
     float m_PressDelay = 20f;
@@ -65,7 +64,7 @@ public class BoxManager : MonoBehaviour
     void Update()
     {
         GameData.incorrect = incorrect;
-        if (m_LastPressTime + m_PressDelay < Time.unscaledTime && !GameData.coworker && GameData.day>=4)
+        if (m_LastPressTime + m_PressDelay < Time.unscaledTime && !GameData.coworker && GameData.day >= 4)
         {
             SpawnBox(true);
 
@@ -74,8 +73,8 @@ public class BoxManager : MonoBehaviour
         }
 
         Vector2 position = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        
-        
+
+
 
         if (Input.GetMouseButtonDown(0) && Packages != null)
         {
@@ -162,7 +161,7 @@ public class BoxManager : MonoBehaviour
                     else if (rend == true && p.box.transform.position.y > -2f)
                     {
                         //when the box is checked out play the animation on loading onto the line
-                        
+
                         animate.SetBool("PickedUp", false);
                         animate.SetTrigger("hasCheckOut");
                         p.ChangeBox();
@@ -178,7 +177,7 @@ public class BoxManager : MonoBehaviour
                 }
             }
 
-            
+
         }
 
     }
@@ -187,13 +186,13 @@ public class BoxManager : MonoBehaviour
         accepted = box.accepted;
         Vector3 start = new Vector3(0.41f, 1.5f, 0f);
         box.box.transform.position = start;
-        
+
         Vector3 move = new Vector3(0.41f, 1.5f, 0f);
         Vector3 move2 = new Vector3(-1.5f, 1.5f, 0f);
 
         StartCoroutine(moveToX(box.box.transform, move2, 1f, box));
-        
-        
+
+
     }
 
 

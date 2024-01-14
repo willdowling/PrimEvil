@@ -112,9 +112,12 @@ public class Phone : MonoBehaviour
     public AudioSource door;
     public AudioSource buy;
 
+    private Faker faker;
+
     // Start is called before the first frame update
     void Start()
     {
+        faker = new Faker("en");
         money = GameData.money;
         GameData.Maxenergy = 100f;
         Debug.Log(GameData.firstloadhouse);
@@ -536,8 +539,7 @@ public class Phone : MonoBehaviour
             }
             if(GameData.day >= 3)
             {
-                var random = new Bogus.Randomizer();
-                int num = random.Number(1, 4);
+                int num = faker.Random.Number(1, 4);
                 if(num == 1)
                 {
                     GameData.isill = true;
@@ -551,8 +553,7 @@ public class Phone : MonoBehaviour
             CalculateEnergy();
             if (!hasAlarm)
             {
-                var random = new Bogus.Randomizer();
-                int num = random.Number(1, 4 - GameData.m);
+                int num = faker.Random.Number(1, 4 - GameData.m);
                 if(num == 1)
                 {
                     GameData.hour = 12;

@@ -26,9 +26,12 @@ public class Stamping : MonoBehaviour
     float m_PressDelay = 0f;
     AudioSource snd;
 
+    private Faker faker;
+
     // Start is called before the first frame update
     void Start()
     {
+        faker = new Faker("en");
         stamped = null;
         startpos = stamp.transform.position;
         rend = stamp.GetComponent<SpriteRenderer>();
@@ -77,8 +80,7 @@ public class Stamping : MonoBehaviour
             boxRend = c.transform.Find("stamped").gameObject.GetComponent<SpriteRenderer>();
             var x = c.GetComponent<BoxCollider2D>().transform.parent.gameObject;
             data = x.GetComponent("PackageData") as PackageData;
-            var random = new Bogus.Randomizer();
-            int num = random.Number(1, 3);
+            int num = faker.Random.Number(1, 3);
             if (approved)
             {
                 if (num == 1)
