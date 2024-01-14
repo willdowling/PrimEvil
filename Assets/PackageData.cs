@@ -88,9 +88,9 @@ public class PackageData : MonoBehaviour
     {
         //assigns random data to the box the player must check matches screen
         var random = new Bogus.Randomizer();
-        var data = new Bogus.DataSets.Commerce("en");
-        var local = new Bogus.DataSets.Address("en");
-        var user = new Bogus.DataSets.Name("en");
+        var data = new Bogus.DataSets.Commerce("en_GB");
+        var local = new Bogus.DataSets.Address("en_GB");
+        var user = new Bogus.DataSets.Name("en_GB");
         zip = local.ZipCode();
         address = local.StreetAddress();
         ID = random.Number(1, 9999);
